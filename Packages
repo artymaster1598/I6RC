@@ -11,3 +11,17 @@ Description: ifile
 Name: ifile
 Author: Neznay
 Depiction: https://artymaster1598.github.io/I6RC/depictions/?p=eu.heinelt.ifile
+
+Package: siri.original.iossixonetwo
+Version: 2.2.0-1
+Section: Tweaks
+Maintainer: I6RC
+Depends: firmware (>6.0)
+Architecture: iphoneos-arm
+Filename: ./debs/SiriPort_Original_iOS6_1_2.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: siri_original_ios6_2_1
+Name: siri_original_ios6_2_1
+Author: Neznay
+Depiction: 
