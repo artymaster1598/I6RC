@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: eu.heinelt.ifile
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: I6RC
+Depends: firmware (<6.0)
+Architecture: iphoneos-arm
+Filename: ./debs/eu.heinelt.ifile.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: ifile
+Name: ifile
+Author: Neznay
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=eu.heinelt.ifile
