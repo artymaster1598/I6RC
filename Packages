@@ -19,7 +19,7 @@ Maintainer: I6RC
 Depends: firmware (>6.0)
 Architecture: iphoneos-arm
 Filename: ./debs/SiriPort_Original_iOS6_1_2.deb
-Size: 860
+Size: 95839846,4
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: siri_original_ios6_2_1
 Name: siri_original_ios6_2_1
