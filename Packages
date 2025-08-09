@@ -2,7 +2,7 @@ Package: eu.heinelt.ifile
 Version: 2.2.0-1
 Section: Tweaks
 Maintainer: I6RC
-Depends: firmware (<6.0)
+Depends: firmware (>6.0)
 Architecture: iphoneos-arm
 Filename: ./debs/eu.heinelt.ifile.deb
 Size: 860
